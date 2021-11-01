@@ -1,0 +1,10 @@
+{
+	"name": "node-testing-external-api",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Hong Phuc <hongphuc.dthp@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"node-fetch": "^3.0.0"
+	}
+}
